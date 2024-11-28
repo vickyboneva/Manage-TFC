@@ -17,6 +17,7 @@ Clone this repository to your local BASH Interface:
 
 
 git clone https://github.com/vickyboneva/Manage-TFC.git
+
 cd Manage-TFC
 
 ## init Terraform, once the repository is cloned, initialize Terraform to download the necessary plugins and prepare the dir:
